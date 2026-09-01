@@ -172,7 +172,7 @@
     cursor: pointer;
   }
   .btn-liquid:hover {
-    background: linear-gradient(135deg, #1C2430 0%, #0F172A 100%);
+    background: linear-gradient(135deg, #0b3f8d 0%, #183c8e 100%);
     color: #F7F5F0;
     transform: translateY(-2px);
     box-shadow:
@@ -190,7 +190,7 @@
     -webkit-backdrop-filter: blur(16px);
     color: #1C2430;
     font-weight: 500;
-    border: 1px solid rgba(28, 36, 48, 0.2);
+    border: none;
     box-shadow:
       0 4px 14px rgba(28, 36, 48, 0.05),
       inset 0 1px 1px rgba(255, 255, 255, 0.95);
